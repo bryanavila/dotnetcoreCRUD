@@ -1,0 +1,11 @@
+C:\Users\Bryan\Documents\Visual Studio 2017\Projects\dotnetcoreMySQL\dotnetcoreMySQL\bin\Debug\netcoreapp2.0\dotnetcoreMySQL.deps.json
+C:\Users\Bryan\Documents\Visual Studio 2017\Projects\dotnetcoreMySQL\dotnetcoreMySQL\bin\Debug\netcoreapp2.0\dotnetcoreMySQL.runtimeconfig.json
+C:\Users\Bryan\Documents\Visual Studio 2017\Projects\dotnetcoreMySQL\dotnetcoreMySQL\bin\Debug\netcoreapp2.0\dotnetcoreMySQL.runtimeconfig.dev.json
+C:\Users\Bryan\Documents\Visual Studio 2017\Projects\dotnetcoreMySQL\dotnetcoreMySQL\bin\Debug\netcoreapp2.0\dotnetcoreMySQL.dll
+C:\Users\Bryan\Documents\Visual Studio 2017\Projects\dotnetcoreMySQL\dotnetcoreMySQL\obj\Debug\netcoreapp2.0\dotnetcoreMySQL.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Documents\Visual Studio 2017\Projects\dotnetcoreMySQL\dotnetcoreMySQL\obj\Debug\netcoreapp2.0\dotnetcoreMySQL.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Documents\Visual Studio 2017\Projects\dotnetcoreMySQL\dotnetcoreMySQL\obj\Debug\netcoreapp2.0\dotnetcoreMySQL.AssemblyInfoInputs.cache
+C:\Users\Bryan\Documents\Visual Studio 2017\Projects\dotnetcoreMySQL\dotnetcoreMySQL\obj\Debug\netcoreapp2.0\dotnetcoreMySQL.AssemblyInfo.cs
+C:\Users\Bryan\Documents\Visual Studio 2017\Projects\dotnetcoreMySQL\dotnetcoreMySQL\bin\Debug\netcoreapp2.0\dotnetcoreMySQL.pdb
+C:\Users\Bryan\Documents\Visual Studio 2017\Projects\dotnetcoreMySQL\dotnetcoreMySQL\obj\Debug\netcoreapp2.0\dotnetcoreMySQL.dll
+C:\Users\Bryan\Documents\Visual Studio 2017\Projects\dotnetcoreMySQL\dotnetcoreMySQL\obj\Debug\netcoreapp2.0\dotnetcoreMySQL.pdb

@@ -12,6 +12,7 @@ namespace dotnetcoreMySQL
             Console.Write("Please login the account info \n");
             Console.Write("Please type your User Name: \n");
             var name = Console.ReadLine();
+            Data.username = name;
             Console.Write("Please type your User Password: \n");
             var pass = Console.ReadLine();
             using (MySqlConnection con = new MySqlConnection(Data.conn))
@@ -32,6 +33,12 @@ namespace dotnetcoreMySQL
                         m.Main(name);
                         
                         
+                    }
+                    else if(count != 1)
+                    {
+                        Console.Clear();
+                        Console.WriteLine("Wrong User Name or Password Please Try Again! \n");
+                        LoginData();
                     }
                 }
             }
